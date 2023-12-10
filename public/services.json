@@ -1,0 +1,402 @@
+{
+	"services": [
+		{
+			"provider": "Telekom",
+			"name": "T Základ 11",
+			"mins": 100,
+			"minsNote": "+ 100 minút v Magenta 1",
+			"messages": 0,
+			"data": 0.5,
+			"dataNote": "+ 500 MB v Magenta 1",
+			"price": 11,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Základ 14",
+			"mins": 150,
+			"minsNote": "+ 150 minút v Magenta 1",
+			"messages": 150,
+			"messagesNote": "+ 150 SMS v Magenta 1",
+			"data": 0.5,
+			"dataNote": "+ 500 MB v Magenta 1",
+			"price": 14,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Základ 17",
+			"mins": 200,
+			"minsNote": "+ 200 minút v Magenta 1",
+			"messages": 200,
+			"messagesNote": "+ 200 SMS v Magenta 1",
+			"data": 0.5,
+			"dataNote": "+ 500 MB v Magenta 1",
+			"price": 17,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 20",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 0.5,
+			"dataNote": "+ 500 MB v Magenta 1",
+			"price": 20,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 21",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 2.5,
+			"dataNote": "+ 2,5 GB v Magenta 1",
+			"price": 21,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 23",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 4,
+			"dataNote": "+ 4 GB v Magenta 1",
+			"price": 23,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 25",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 5,
+			"dataNote": "+ 5 GB v Magenta 1",
+			"price": 25,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 27",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 7,
+			"dataNote": "+ 7 GB v Magenta 1",
+			"price": 27,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 32",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 14,
+			"dataNote": "+ 8 GB v Magenta 1",
+			"price": 32,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Ideál 37",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 20,
+			"dataNote": "+ 10 GB v Magenta 1",
+			"price": 37,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Dáta 17",
+			"mins": 100,
+			"minsNote": "+ 100 minút v Magenta 1",
+			"messages": 0,
+			"data": 4,
+			"dataNote": "+ 3 GB v Magenta 1",
+			"price": 17,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Dáta 21",
+			"mins": 100,
+			"minsNote": "+ 100 minút v Magenta 1",
+			"messages": 0,
+			"data": 7,
+			"dataNote": "+ 3 GB v Magenta 1",
+			"price": 21,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Dáta 25",
+			"mins": 100,
+			"minsNote": "+ 100 minút v Magenta 1",
+			"messages": 0,
+			"data": 12,
+			"dataNote": "+ 6 GB v Magenta 1",
+			"price": 25,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Dáta HD",
+			"mins": 100,
+			"minsNote": "+ 100 minút v Magenta 1",
+			"messages": 0,
+			"data": 30,
+			"dataNote": "+ 20 GB v Magenta 1, po prečerpaní 10 Mbps",
+			"price": 42,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Nekonečno SD",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 25,
+			"dataNote": "+ 15 GB v Magenta 1, po prečerpaní 3 Mbps",
+			"price": 42,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Nekonečno HD",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 55,
+			"dataNote": "+ 25 GB v Magenta 1, po prečerpaní 10 Mbps",
+			"price": 48,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Telekom",
+			"name": "T Nekonečno MAX",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 9999,
+			"price": 70,
+			"url": "https://eshop.telekom.sk/category/pausaly-telekom/list/product_listing"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go 15 €",
+			"mins": 200,
+			"messages": 100,
+			"data": 0.5,
+			"price": 15,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go 20 €",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 2,
+			"dataNote": "Neobmedzené dáta pre Messanger, Whatsapp, Telegram, Skype, Správy, Pokec, Samsung Messanger",
+			"price": 20,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go 30 €",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 10,
+			"dataNote": "Neobmedzené dáta pre Instagram, Facebook, Snapchat, TikTok, Badoo, Pinterest, LinkedIn, Twitter",
+			"price": 30,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go 40 €",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 20,
+			"dataNote": "Neobmedzené dáta pre Netflix, HBO GO, YouTube, Aktuality.sk, Antik TV, Magio GO, Orange TV, Twitch",
+			"price": 40,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go 65 €",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 9999,
+			"dataNote": "Po vyčerpaní 1000 GB dát príde k zníženiu rýchlosti",
+			"price": 65,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go Data 15 €",
+			"mins": 0,
+			"messages": 0,
+			"data": 3,
+			"price": 15,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go Data 20 €",
+			"mins": 0,
+			"messages": 0,
+			"data": 6,
+			"dataNote": "Neobmedzené dáta pre Messanger, Whatsapp, Telegram, Skype, Správy, Pokec, Samsung Messanger",
+			"price": 20,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "Orange",
+			"name": "Go Data 30 €",
+			"mins": 0,
+			"messages": 0,
+			"data": 15,
+			"dataNote": "Neobmedzené dáta pre Instagram, Facebook, Snapchat, TikTok, Badoo, Pinterest, LinkedIn, Twitter",
+			"price": 30,
+			"url": "https://www.orange.sk/e-shop/nove-cislo/vyber-pausalu"
+		},
+		{
+			"provider": "O2",
+			"name": "Biely O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 0,
+			"price": 17,
+			"priceNote": "15€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "O2",
+			"name": "Modrý O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 1,
+			"dataNote": "navyše 10 GB na 1 štandardnú aplikáciu - Instagram, Facebook, TikTok, Gmail, WhatsApp, Viber, POKEC.sk, Mapy od Google, Waze, Otta Akadémia",
+			"price": 22,
+			"priceNote": "20€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "O2",
+			"name": "Strieborný O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 3,
+			"dataNote": "navyše 2 × 10 GB na 1 štandardnú (Instagram, Facebook, TikTok, Gmail, WhatsApp, Viber, POKEC.sk, Mapy od Google, Waze, Otta Akadémia) a 1 prémiovú aplikáciu vrátane predplatného (HBO GO, VOYO, O2 TV Mini, YouTube, TIDAL Music, Aktuality.sk, Dennik N, SME, .týždeň, Refresher, Microsoft 365 Personal)",
+			"price": 27,
+			"priceNote": "25€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "O2",
+			"name": "Zlatý O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 10,
+			"dataNote": "navyše 3 × 10 GB na 2 štandardné (Instagram, Facebook, TikTok, Gmail, WhatsApp, Viber, POKEC.sk, Mapy od Google, Waze, Otta Akadémia) a 1 prémiovú aplikáciu vrátane predplatného (HBO GO, VOYO, O2 TV Mini, YouTube, TIDAL Music, Aktuality.sk, Dennik N, SME, .týždeň, Refresher, Microsoft 365 Personal)",
+			"price": 32,
+			"priceNote": "30€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "O2",
+			"name": "Titánový O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 9999,
+			"dataNote": "Po prečerpaní 150 GB dát sa prenosová rýchlosť zníži na 2 Mbit/s pre sťahovanie a na 1 Mbit/s pre odosielanie dát + predplatné na 1 prémiovú aplikáciu (HBO GO, VOYO, O2 TV Mini, YouTube, TIDAL Music, Aktuality.sk, Dennik N, SME, .týždeň, Refresher, Microsoft 365 Personal)",
+			"price": 42,
+			"priceNote": "40€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "O2",
+			"name": "Platinový O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 9999,
+			"dataNote": "Po prečerpaní 150 GB dát sa prenosová rýchlosť zníži na 2 Mbit/s pre sťahovanie a na 1 Mbit/s pre odosielanie dát + predplatné na 2 prémiové aplikácie (HBO GO, VOYO, O2 TV Mini, YouTube, TIDAL Music, Aktuality.sk, Dennik N, SME, .týždeň, Refresher, Microsoft 365 Personal)",
+			"price": 52,
+			"priceNote": "50€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "O2",
+			"name": "Diamantový O2 SMART Paušál",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 9999,
+			"dataNote": "Po prečerpaní 1000 GB dát sa prenosová rýchlosť zníži na 2 Mbit/s pre sťahovanie a na 1 Mbit/s pre odosielanie dát + predplatné na 2 prémiové aplikácie (HBO GO, VOYO, O2 TV Mini, YouTube, TIDAL Music, Aktuality.sk, Dennik N, SME, .týždeň, Refresher, Microsoft 365 Personal)",
+			"price": 62,
+			"priceNote": "60€/mes. s Digitálnym bonusom",
+			"url": "https://www.o2.sk/ponuka/mobilne-sluzby/o2-smart-pausal"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA 100",
+			"mins": 100,
+			"messages": 100,
+			"data": 1,
+			"price": 5,
+			"url": "https://www.4ka.sk/ponuka/sloboda-100"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA 300",
+			"mins": 300,
+			"messages": 300,
+			"data": 1,
+			"price": 9,
+			"url": "https://www.4ka.sk/ponuka/sloboda-300"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA 100 +",
+			"mins": 100,
+			"messages": 100,
+			"data": 11,
+			"dataNote": "z toho 3,78 GB v EÚ",
+			"price": 10,
+			"url": "https://www.4ka.sk/ponuka/sloboda-100-plus"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA 300 +",
+			"mins": 300,
+			"messages": 300,
+			"data": 16,
+			"dataNote": "z toho 3,78 GB v EÚ",
+			"price": 14,
+			"url": "https://www.4ka.sk/ponuka/sloboda-300-plus"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA HLAS",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 0,
+			"price": 15,
+			"url": "https://www.4ka.sk/pausaly-sloboda"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA ∞",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 1,
+			"price": 17,
+			"url": "https://www.4ka.sk/ponuka/sloboda-nekonecno"
+		},
+		{
+			"provider": "4ka",
+			"name": "SLOBODA ∞ +",
+			"mins": 9999,
+			"messages": 9999,
+			"data": 9999,
+			"dataNote": "z toho 3,78 GB v EÚ",
+			"price": 22,
+			"url": "https://www.4ka.sk/ponuka/sloboda-nekonecno-plus"
+		}
+	]
+}

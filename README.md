@@ -1,6 +1,8 @@
 # VyberPaušál
 
-Small Svelte site to compare services of providers.
+Simple Svelte website to compare plans of phone operators. List of plans is placed in `services.json` file inside `public` directory.
+
+[Demo](https://vyberpausal.pa2lo.net/)
 
 ## Get started
 
